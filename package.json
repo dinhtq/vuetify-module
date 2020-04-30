@@ -33,7 +33,7 @@
     "fibers": "^4.0.3",
     "sass": "^1.26.5",
     "sass-loader": "^8.0.2",
-    "vuetify": "^2",
+    "vuetify": "git@github.com:dinhtq/vuetify-forked-v2.2.21.git#v2.2.25-forked",
     "vuetify-loader": "^1.4.3"
   },
   "devDependencies": {
